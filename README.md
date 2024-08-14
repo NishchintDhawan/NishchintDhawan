@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Profile: [nishchintdhawan.github.io](https://nishchintdhawan.github.io)
+About me: [nishchintdhawan.github.io](https://nishchintdhawan.github.io)
 <!--
 **NishchintDhawan/NishchintDhawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
